@@ -1,3 +1,5 @@
+![travis-ci](https://travis-ci.org/cklll/google-calendar-holiday.svg?branch=master)
+
 ## Google Calendar Helper
 
 This package make use of Google Calendar API to provide the following functions:
