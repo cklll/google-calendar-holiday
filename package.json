@@ -4,8 +4,8 @@
   "description": "Use Google Calendar API v3 to get holiday information.",
   "main": "index.js",
   "scripts": {
-    "test": "npm run lint && jest tests/init.test.js",
-    "lint": "eslint index.js"
+    "test": "npm run lint && jest tests/",
+    "lint": "eslint **/*.js"
   },
   "author": "",
   "license": "MIT",
