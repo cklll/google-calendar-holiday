@@ -1,6 +1,6 @@
 {
   "name": "google-calendar-holiday",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use Google Calendar API v3 to get holiday information.",
   "main": "index.js",
   "scripts": {

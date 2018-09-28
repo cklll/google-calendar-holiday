@@ -1,4 +1,4 @@
-const GoolgeCalendarHoliday = require('..').default;
+const GoolgeCalendarHoliday = require('..');
 
 const calendar = new GoolgeCalendarHoliday(
   process.env.API_KEY,
@@ -8,4 +8,4 @@ const calendar = new GoolgeCalendarHoliday(
   },
 );
 
-exports.default = calendar;
+module.exports = calendar;

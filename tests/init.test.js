@@ -1,4 +1,4 @@
-const GoolgeCalendarHoliday = require('..').default;
+const GoolgeCalendarHoliday = require('..');
 
 describe('init', () => {
   describe('when API key is invalid', () => {

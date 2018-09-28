@@ -2,17 +2,15 @@
 
 ## Google Calendar Helper
 
-This package make use of Google Calendar API to provide the following functions:
+Use Google Calendar API v3 to 
+  * check if a date is holiday
+  * get holiday names of a given date
 
-* List your events by date ranges
-
-## Example usages
-
-* Check whether a date is public holiday
+with a given list of **publicly** available calendars
 
 ## Installation
-```js
-npm instal --save google-calendar-help
+```
+npm install --save google-calendar-holiday
 ```
 
 ## Set up your credentials and Google Calendar
@@ -20,8 +18,7 @@ npm instal --save google-calendar-help
 Enable Google Calendar API
 https://developers.google.com/calendar/quickstart/nodejs
 
-Create an API key
-
+Create an API key in Credentials page
 
 ## Examples
 

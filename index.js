@@ -72,4 +72,4 @@ class GoolgeCalendarHoliday {
   }
 }
 
-exports.default = GoolgeCalendarHoliday;
+module.exports = GoolgeCalendarHoliday;
